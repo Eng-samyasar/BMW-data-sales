@@ -1,9 +1,4 @@
----
-title: "BMW Sales & Profit Analysis"
-author: "Your Name"
-date: "`r Sys.Date()`"
-output: html_document
----
+-- BMW  data sales
 
 # Overview
 
